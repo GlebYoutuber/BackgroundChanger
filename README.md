@@ -1,2 +1,2 @@
 # BackgroundChanger
-BackgroundChanger это Программа которая меняет Фон на ваш вкус с помощью Регистра, данная Программа не опасна, ваш ПК или Ноутбук будут в порядке.  
+Background Changer it's Program, which you set own wallpaper with RegEdit 
